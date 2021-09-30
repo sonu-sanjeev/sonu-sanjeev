@@ -1,6 +1,6 @@
 👋 Hi, I’m Sonu 
 
-I love building cool stuff on Android using Kotlin and Java, scaling existing products and focusing more on quality and maintainability🎯.
+I love building cool stuff on Android using Kotlin and Java, scaling existing products and focusing more on quality and maintainability🎯. Also exploring a lot of SpringBoot recently.
 
 Reach me at : ✉ sonu.etm@gmail.com
 
